@@ -1,0 +1,1 @@
+./Debug/AppliancePtr.cpp.o ./Debug/LinkedList.cpp.o ./Debug/Appliance.cpp.o ./Debug/main.cpp.o   
